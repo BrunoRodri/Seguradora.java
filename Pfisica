@@ -1,6 +1,6 @@
 package projeto;
 //dados da pessoa fisica
-//WE ARE NUMBER ONE
+
 public class PFisica extends Cliente{
 	
 
